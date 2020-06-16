@@ -1,0 +1,81 @@
+﻿{
+	"methods": {
+		"vpCustomiseBasicMenu": {
+			"timeStamp": "2020-06-16T09:15:23.197Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"test_001": {
+			"timeStamp": "2020-06-16T09:22:45.158Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"vpCustomPaste": {
+			"timeStamp": "2020-06-16T09:16:48.838Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"vpCustomCut": {
+			"timeStamp": "2020-06-16T09:16:54.116Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"new coder": {
+			"timeStamp": "2020-06-16T07:15:02.395Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"vpSimplifyMenu": {
+			"timeStamp": "2020-06-16T10:12:24.375Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"vpLocaliseMenu": {
+			"timeStamp": "2020-06-16T10:13:06.375Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"vpCustomCopy": {
+			"timeStamp": "2020-06-16T09:17:00.031Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"akPaste": {
+			"timeStamp": "2020-06-16T09:07:18.634Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"test_getMenu": {
+			"timeStamp": "2020-06-16T06:00:00.379Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"akCut": {
+			"timeStamp": "2020-06-16T09:04:56.839Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"akCopy": {
+			"timeStamp": "2020-06-16T09:04:52.298Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		}
+	}
+}

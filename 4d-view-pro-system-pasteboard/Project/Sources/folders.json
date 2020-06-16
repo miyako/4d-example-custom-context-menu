@@ -1,0 +1,31 @@
+﻿{
+	"ak": {
+		"methods": [
+			"akCopy",
+			"akCut",
+			"akPaste"
+		]
+	},
+	"coder": {
+		"methods": [
+			"new coder"
+		]
+	},
+	"tests": {
+		"methods": [
+			"test_001",
+			"test_getMenu"
+		]
+	},
+	"vp": {
+		"methods": [
+			"vpCustomCopy",
+			"vpCustomCut",
+			"vpCustomiseBasicMenu",
+			"vpCustomPaste",
+			"vpLocaliseMenu",
+			"vpSimplifyMenu"
+		]
+	},
+	"trash": {}
+}
