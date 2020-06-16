@@ -1,0 +1,104 @@
+﻿{
+	"Sources/Forms/TEST/method.4dm": {
+		"left": 247,
+		"top": 129,
+		"width": 1360,
+		"height": 880
+	},
+	"Sources/Forms/TEST/ObjectMethods/vp%3A1.4dm": {
+		"left": 247,
+		"top": 129,
+		"width": 1360,
+		"height": 880
+	},
+	"Sources/Forms/TEST/ObjectMethods/vp1.4dm": {
+		"left": 250,
+		"top": 116,
+		"width": 883,
+		"height": 613
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button.4dm": {
+		"left": 496,
+		"top": 165,
+		"width": 1316,
+		"height": 782
+	},
+	"Sources/Methods/new coder.4dm": {
+		"left": 385,
+		"top": 335,
+		"width": 904,
+		"height": 839
+	},
+	"Sources/Methods/test_001.4dm": {
+		"left": 250,
+		"top": 142,
+		"width": 883,
+		"height": 587
+	},
+	"Sources/Methods/vpLocaliseMenu.4dm": {
+		"left": 250,
+		"top": 142,
+		"width": 883,
+		"height": 587
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button1.4dm": {
+		"left": 596,
+		"top": 302,
+		"width": 1316,
+		"height": 782
+	},
+	"Sources/Methods/vpCustomCopy.4dm": {
+		"left": 491,
+		"top": 245,
+		"width": 1133,
+		"height": 753
+	},
+	"Sources/Methods/akCopy.4dm": {
+		"left": 367,
+		"top": 667,
+		"width": 1133,
+		"height": 779
+	},
+	"Sources/Methods/akCut.4dm": {
+		"left": 367,
+		"top": 667,
+		"width": 1133,
+		"height": 779
+	},
+	"Sources/Methods/vpCustomCut.4dm": {
+		"left": 491,
+		"top": 245,
+		"width": 1133,
+		"height": 753
+	},
+	"Sources/Methods/test_getMenu.4dm": {
+		"left": 425,
+		"top": 419,
+		"width": 1133,
+		"height": 805
+	},
+	"Sources/Methods/akPaste.4dm": {
+		"left": 292,
+		"top": 315,
+		"width": 1133,
+		"height": 779
+	},
+	"Sources/Methods/vpCustomPaste.4dm": {
+		"left": 596,
+		"top": 302,
+		"width": 1316,
+		"height": 782
+	},
+	"Sources/Methods/vpCustomiseBasicMenu.4dm": {
+		"left": 491,
+		"top": 245,
+		"width": 1133,
+		"height": 753
+	},
+	"Sources/Methods/vpSimplifyMenu.4dm": {
+		"left": 496,
+		"top": 165,
+		"width": 1316,
+		"height": 782
+	}
+}

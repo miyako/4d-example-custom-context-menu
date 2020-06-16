@@ -1,0 +1,157 @@
+﻿{
+	"Sources/Forms/TEST/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T05:25:16.982Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/vp%3A1.4dm": {
+		"startSelection": 9,
+		"endSelection": 0,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T05:20:34.856Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/vp1.4dm": {
+		"startSelection": 3,
+		"endSelection": 3,
+		"firstSelectedLine": 19,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T23:26:33.654Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T10:12:27.107Z"
+	},
+	"Sources/Methods/new coder.4dm": {
+		"startSelection": 6,
+		"endSelection": 6,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T07:15:02.395Z"
+	},
+	"Sources/Methods/test_001.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T23:00:33.053Z"
+	},
+	"Sources/Methods/vpLocaliseMenu.4dm": {
+		"startSelection": 75,
+		"endSelection": 75,
+		"firstSelectedLine": 87,
+		"lastSelectedLine": 87,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T23:25:29.496Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button1.4dm": {
+		"startSelection": 10,
+		"endSelection": 10,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:55:11.465Z"
+	},
+	"Sources/Methods/vpCustomCopy.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:17:00.031Z"
+	},
+	"Sources/Methods/akCopy.4dm": {
+		"startSelection": 38,
+		"endSelection": 38,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:04:52.298Z"
+	},
+	"Sources/Methods/akCut.4dm": {
+		"startSelection": 37,
+		"endSelection": 37,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:04:56.839Z"
+	},
+	"Sources/Methods/vpCustomCut.4dm": {
+		"startSelection": 11,
+		"endSelection": 11,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:16:54.116Z"
+	},
+	"Sources/Methods/test_getMenu.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T06:00:00.379Z"
+	},
+	"Sources/Methods/akPaste.4dm": {
+		"startSelection": 22,
+		"endSelection": 22,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:07:18.634Z"
+	},
+	"Sources/Methods/vpCustomPaste.4dm": {
+		"startSelection": 26,
+		"endSelection": 26,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:16:48.838Z"
+	},
+	"Sources/Methods/vpCustomiseBasicMenu.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 18,
+		"lastSelectedLine": 18,
+		"folding": [
+			4
+		],
+		"bookmarks": [],
+		"stamp": "2020-06-16T09:15:23.197Z"
+	},
+	"Sources/Methods/vpSimplifyMenu.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 41,
+		"lastSelectedLine": 41,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-16T10:12:24.375Z"
+	}
+}

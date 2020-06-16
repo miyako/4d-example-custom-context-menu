@@ -1,0 +1,34 @@
+﻿{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483635,
+			"previousTabType": "method",
+			"previousTabID": 2147483641,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "TEST",
+				"objectName": "vp1",
+				"methodPath": "/SOURCES/Forms/TEST/ObjectMethods/vp1.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483641,
+			"previousTabType": "form",
+			"previousTabID": 82,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "vpLocaliseMenu"
+			}
+		},
+		{
+			"type": "form",
+			"id": 82,
+			"formName": "TEST"
+		},
+		{
+			"type": "explorer"
+		}
+	]
+}

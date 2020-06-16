@@ -1,0 +1,61 @@
+﻿{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/vpCustomiseBasicMenu.4dm"
+		},
+		{
+			"id": 2147483646,
+			"path": "Sources/Methods/test_001.4dm"
+		},
+		{
+			"id": 2147483645,
+			"path": "Sources/Methods/vpCustomPaste.4dm"
+		},
+		{
+			"id": 2147483644,
+			"path": "Sources/Methods/vpCustomCut.4dm"
+		},
+		{
+			"id": 2147483643,
+			"path": "Sources/Methods/new coder.4dm"
+		},
+		{
+			"id": 2147483642,
+			"path": "Sources/Methods/vpSimplifyMenu.4dm"
+		},
+		{
+			"id": 2147483641,
+			"path": "Sources/Methods/vpLocaliseMenu.4dm"
+		},
+		{
+			"id": 2147483640,
+			"path": "Sources/Methods/vpCustomCopy.4dm"
+		},
+		{
+			"id": 2147483639,
+			"path": "Sources/Methods/akPaste.4dm"
+		},
+		{
+			"id": 2147483638,
+			"path": "Sources/Methods/test_getMenu.4dm"
+		},
+		{
+			"id": 2147483637,
+			"path": "Sources/Methods/akCut.4dm"
+		},
+		{
+			"id": 2147483636,
+			"path": "Sources/Methods/akCopy.4dm"
+		},
+		{
+			"id": 2147483635,
+			"path": "Sources/Forms/TEST/ObjectMethods/vp1.4dm"
+		},
+		{
+			"id": 2147483634,
+			"path": "Sources/Forms/TEST/method.4dm"
+		}
+	],
+	"arch64": true
+}

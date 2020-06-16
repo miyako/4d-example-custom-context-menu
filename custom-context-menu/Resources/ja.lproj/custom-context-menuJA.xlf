@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file datatype="x-STR#" original="undefined" product-version="v18" source-language="en-US" target-language="ja">
+        <header>
+            <note>Update Manager</note>
+        </header>
+        <body>
+            <group id="A44F5EA2D2DF48BE918B0FD9FE018553">
+                <trans-unit resname="gc.spread.copy" id="A44F5EA2D2DF48BE918B0FD9FE018553.100">
+                    <target>コピー</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.cut" id="A44F5EA2D2DF48BE918B0FD9FE018553.101">
+                    <target>カット</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.pasteOptions" id="A44F5EA2D2DF48BE918B0FD9FE018553.102">
+                    <target>形式を指定してペースト:</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.pasteAll" id="A44F5EA2D2DF48BE918B0FD9FE018553.103">
+                    <target>すべての形式</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.paste" id="A44F5EA2D2DF48BE918B0FD9FE018553.104">
+                    <target>ペースト</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.pasteFormula" id="A44F5EA2D2DF48BE918B0FD9FE018553.105">
+                    <target>数式のみ</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.pasteValues" id="A44F5EA2D2DF48BE918B0FD9FE018553.106">
+                    <target>値のみ</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.pasteFormatting" id="A44F5EA2D2DF48BE918B0FD9FE018553.107">
+                    <target>スタイルのみ</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.pasteValuesFormatting" id="A44F5EA2D2DF48BE918B0FD9FE018553.108">
+                    <target>スタイルと値</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.pasteFormulaFormatting" id="A44F5EA2D2DF48BE918B0FD9FE018553.109">
+                    <target>スタイルと数式</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.clearContents" id="A44F5EA2D2DF48BE918B0FD9FE018553.110">
+                    <target>内容をクリア</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.insertRows" id="A44F5EA2D2DF48BE918B0FD9FE018553.111">
+                    <target>行を挿入</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.insertColumns" id="A44F5EA2D2DF48BE918B0FD9FE018553.112">
+                    <target>列を挿入</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.deleteRows" id="A44F5EA2D2DF48BE918B0FD9FE018553.113">
+                    <target>行を削除</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.deleteColumns" id="A44F5EA2D2DF48BE918B0FD9FE018553.114">
+                    <target>列を削除</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.insertSheet" id="A44F5EA2D2DF48BE918B0FD9FE018553.115">
+                    <target>シート挿入</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.deleteSheet" id="A44F5EA2D2DF48BE918B0FD9FE018553.116">
+                    <target>シート削除</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.filter" id="A44F5EA2D2DF48BE918B0FD9FE018553.117">
+                    <target>フィルター</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.insertComment" id="A44F5EA2D2DF48BE918B0FD9FE018553.118">
+                    <target>コメントを挿入</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.sort" id="A44F5EA2D2DF48BE918B0FD9FE018553.119">
+                    <target>ソート</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.sortAscend" id="A44F5EA2D2DF48BE918B0FD9FE018553.120">
+                    <target>昇順にソート</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.sortDescend" id="A44F5EA2D2DF48BE918B0FD9FE018553.121">
+                    <target>降順にソート</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.slicerSortAscend" id="A44F5EA2D2DF48BE918B0FD9FE018553.122">
+                    <target>昇順にソート</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.slicerSortDescend" id="A44F5EA2D2DF48BE918B0FD9FE018553.123">
+                    <target>降順にソート</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.editComment" id="A44F5EA2D2DF48BE918B0FD9FE018553.124">
+                    <target>コメントを編集</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.deleteComment" id="A44F5EA2D2DF48BE918B0FD9FE018553.125">
+                    <target>コメントを削除</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.toggleComment" id="A44F5EA2D2DF48BE918B0FD9FE018553.126">
+                    <target>コメントの表示を切替</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.hideRows" id="A44F5EA2D2DF48BE918B0FD9FE018553.127">
+                    <target>行を非表示</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.unhideRows" id="A44F5EA2D2DF48BE918B0FD9FE018553.128">
+                    <target>行を再表示</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.hideColumns" id="A44F5EA2D2DF48BE918B0FD9FE018553.129">
+                    <target>列を非表示</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.unhideColumns" id="A44F5EA2D2DF48BE918B0FD9FE018553.130">
+                    <target>列を再表示</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.hideSheet" id="A44F5EA2D2DF48BE918B0FD9FE018553.131">
+                    <target>シートを非表示</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.unhideSheet" id="A44F5EA2D2DF48BE918B0FD9FE018553.132">
+                    <target>シートを再表示</target>
+                </trans-unit>
+                <trans-unit resname="gc.spread.removeSlicer" id="A44F5EA2D2DF48BE918B0FD9FE018553.133">
+                    <target>項目スライサーを除去</target>
+                </trans-unit>
+
+            </group>
+        </body>
+    </file>
+</xliff>
