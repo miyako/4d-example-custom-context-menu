@@ -14,6 +14,6 @@ For instace:
 * What you copy in an external app is **not** pasted via the context menu
 * What you copy via the context menu is **not** what gets pasted to an external app
 
-User may not like that....
+Users may not like that....😅
 
 **Solution**: With some JavaScript, we can intecept the context menu and invoke 4D code. To avoid confusion, we can also remove SpreadJS "paste special" and limit the context menu to regular copy/paste only.
